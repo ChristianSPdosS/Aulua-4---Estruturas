@@ -51,17 +51,18 @@ b) Solicite ao usuário para inserir os dados do pet.
 c) Imprimir os valores do pet na tela.
 */
 
-  t_produto produto = {
+ /* t_produto produto = {
 .nome = "Biscoito",
   .desc= ""
   
 
-    };
+    }; 
+  
   
 produto.validade.dia = 05;
   produto.validade.mes= 03;
   produto.validade.ano= 2021;
-
+*/
 
 
 
